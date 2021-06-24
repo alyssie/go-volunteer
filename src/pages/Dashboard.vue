@@ -4,15 +4,15 @@
 			<div class="grid grid-cols-6 gap-6 py-5">
 				<div class="col-span-4">
 					<div class="rounded-lg overflow-hidden">
-						<router-link to="/"><img src="../assets/ads/ad-1.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/"><img src="https://i.imgur.com/CjHNcj2.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 				</div>
 				<div class="col-span-2">
 					<div class="rounded-lg overflow-hidden">
-						<router-link to="/"><img src="../assets/ads/ad-3.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/"><img src="https://i.imgur.com/Owe9gaz.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 					<div class="rounded-lg overflow-hidden mt-3">
-						<router-link to="/"><img src="../assets/ads/ad-2.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/"><img src="https://i.imgur.com/bOTASPd.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 				</div>
 			</div>
