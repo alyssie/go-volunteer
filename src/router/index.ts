@@ -2,6 +2,7 @@ import { createWebHistory, createRouter } from "vue-router";
 import Home from "../pages/Home.vue";
 import Events from "../pages/Events.vue";
 import Merchants from "../pages/Merchants.vue";
+import Maintenance from "../pages/Maintenance.vue";
 import Dashboard from "../pages/Dashboard.vue";
 
 const routes = [
@@ -24,6 +25,11 @@ const routes = [
         path: "/dashboard",
         name: "Dashboard",
         component: Dashboard,
+    },
+    {
+        path: "/maintenance",
+        name: "Maintenance",
+        component: Maintenance,
     },
 ];
 
