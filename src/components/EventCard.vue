@@ -53,15 +53,15 @@
 				required: true
 			},
 			eventNeeds: {
-				type: Number,
+				type: String,
 				required: true
 			},
 			eventGoal: {
-				type: Number,
+				type: String,
 				required: true
 			},
 			progressBar: {
-				type: Number,
+				type: String,
 				required: true
 			},
 		},
