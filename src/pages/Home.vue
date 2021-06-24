@@ -4,7 +4,9 @@
 	</section>
 	<section class="bg-gray px-7">
 		<div class="container mx-auto px-7 lg:px-0 py-20">
-			<EventList program="donation" />
+			<div class="grid grid-cols-2 lg:grid-cols-4 gap-8">
+				<EventList/>
+			</div>
 			<div class="w-full block text-center text-md uppercase font-semibold text-main-dark hover:text-white mt-20 transition-all">
 				<router-link to="/register" 
 					class="border-2 bg-white hover:bg-main-dark border-main-dark px-14 py-2 rounded-full transition-all">

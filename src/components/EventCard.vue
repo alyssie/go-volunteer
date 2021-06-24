@@ -14,7 +14,7 @@
 				<div class="w-1/2 h-5 bg-main mb-2"></div>
 				<p class="text-sm absolute inset-0 m-auto font-bold text-center">{{ progressBar }}%</p>
 			</div>
-			<router-link to="/" class="bg-main-dark hover:bg-main px-8 py-2 rounded-lg text-md uppercase font-bold text-white block text-center transition-all">
+			<router-link to="/events" class="bg-main-dark hover:bg-main px-8 py-2 rounded-lg text-md uppercase font-bold text-white block text-center transition-all">
 				<span v-if="eventType === 'Donate'">Donate</span>
 				<span v-if="eventType === 'Volunteer'">Volunteer</span>
 			</router-link>
