@@ -4,62 +4,62 @@
 			<div class="grid grid-cols-6 gap-6 py-5">
 				<div class="col-span-4">
 					<div class="rounded-lg overflow-hidden">
-						<router-link to="/"><img src="https://i.imgur.com/CjHNcj2.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/dashboard"><img src="https://i.imgur.com/CjHNcj2.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 				</div>
 				<div class="col-span-2">
 					<div class="rounded-lg overflow-hidden">
-						<router-link to="/"><img src="https://i.imgur.com/Owe9gaz.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/dashboard"><img src="https://i.imgur.com/Owe9gaz.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 					<div class="rounded-lg overflow-hidden mt-3">
-						<router-link to="/"><img src="https://i.imgur.com/bOTASPd.jpg" alt="advertisment" class="object-cover"></router-link>
+						<router-link to="/dashboard"><img src="https://i.imgur.com/bOTASPd.jpg" alt="advertisment" class="object-cover"></router-link>
 					</div>
 				</div>
 			</div>
 			<div class="grid grid-cols-4 lg:grid-cols-8 gap-3 py-5 mt-3">
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/donate.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">donate</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/volunteer.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">volunteer</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/merchant.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">merchant</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/qr.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">qr</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/ranking.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">ranking</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/history.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">history</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/inbox.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">inbox</p>
 					</div>
 				</router-link>
-				<router-link to="/">
+				<router-link to="/dashboard">
 					<div class="rounded-lg overflow-hidden shadow bg-white py-5">
 						<img src="../assets/menu/help.svg" alt="menu" class="block mx-auto mb-3 h-10">
 						<p class="text-base font-semibold uppercase text-center">help</p>
